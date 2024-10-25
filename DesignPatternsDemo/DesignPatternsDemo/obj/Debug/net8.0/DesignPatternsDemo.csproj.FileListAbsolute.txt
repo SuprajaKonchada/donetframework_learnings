@@ -1,0 +1,14 @@
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.exe
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.deps.json
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.runtimeconfig.json
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.dll
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\bin\Debug\net8.0\DesignPatternsDemo.pdb
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.AssemblyInfoInputs.cache
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.AssemblyInfo.cs
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.dll
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net8.0\refint\DesignPatternsDemo.dll
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.pdb
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net8.0\DesignPatternsDemo.genruntimeconfig.cache
+C:\Users\Supraja Konchada\source\repos\DesignPatternsDemo\DesignPatternsDemo\obj\Debug\net8.0\ref\DesignPatternsDemo.dll

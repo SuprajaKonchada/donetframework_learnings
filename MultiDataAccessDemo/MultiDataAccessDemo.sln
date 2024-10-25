@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDataAccessDemo", "MultiDataAccessDemo\MultiDataAccessDemo.csproj", "{F50A481D-00B8-47E6-87B1-B23E96D6FCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F50A481D-00B8-47E6-87B1-B23E96D6FCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50A481D-00B8-47E6-87B1-B23E96D6FCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50A481D-00B8-47E6-87B1-B23E96D6FCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50A481D-00B8-47E6-87B1-B23E96D6FCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E846EF98-4F7A-41B9-8D86-82BFE4EAD570}
+	EndGlobalSection
+EndGlobal

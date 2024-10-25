@@ -1,0 +1,24 @@
+﻿@model List<MultiDataAccessDemo.Models.Employee>
+
+<h2>Employees List(Employees Older than 25)</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+            <th>Designation</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.FirstName</td>
+                <td>@employee.LastName</td>
+                <td>@employee.Age</td>
+                <td>@employee.Designation</td>
+            </tr>
+        }
+    </tbody>
+</table>
